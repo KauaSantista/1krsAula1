@@ -1,1 +1,2 @@
-# 1krsAula1
+Console.WriteLine("Hello, World!");
+Console.WriteLine("etec adolpho berezin");
